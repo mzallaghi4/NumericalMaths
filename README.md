@@ -1,26 +1,32 @@
 # Numerical Solution of Partial Differential Equations (PDEs)
-Numerical Solution of Partial Differential Equations (PDEs)
 
-Numerical Solution of Partial Differential Equations (PDEs)
+In this repository I will discuss the various numerical solution methods of partial differential equations (PDEs).
 
-This is my test
 
-In this repository you can find the
-## Lessons 
+
+# Lessons 
 
 I will cover the following numerical techniques:
-
 - Finite Differenece Methods
-- Finite Element  Methods
+- Finite Element Methods
 - Finite Volume Methods
+- Meshless/Meshfree Methods
+And in particular;
 - Discontinuous galerkin Methods
-- Finite Volume Methods
-- Multigrid Methods
-- Domain Decompositon Methods
 
-=  Convection Equation
+# Solvers and Algorithms
+- Newton Solver and so on!
+- Iterative Methods for Linear and Nonlinear Equations
+- Preconditioner (transformation)
+- Algebraic Multigrid (AMG) and Geometric Multigrid (GMG) methods 
+- Domain Decompositon Methods (Overlapping and Non-overlapping)
 
-=  Diffusion Equation
+#  Linearization Methods
+
+# Model problem
+- Convection equation
+- Convection–Diffusion equation
+- Navier-Stokes Equation
 
 ## Documentation
 
@@ -28,26 +34,23 @@ I will cover the following numerical techniques:
 
 
 ## Resources
+
+
 ## Appendix
 
 Any additional information goes here
 
 
-## Authors
 
-[@mzallaghi4](https://www.github.com/mzallaghi4)
-
-   Mehdi Zallaghi (Email:mmzallaghi@gmail.com)
-## License
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-It's Okey!
-## Acknowledgements
+## Authors
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+# [@mzallaghi4](https://www.github.com/mzallaghi4)
+
+# Mehdi Zallaghi (Email:mmzallaghi@gmail.com)
 
 
 ##  About Me
