@@ -48,9 +48,9 @@ Any additional information goes here
 
 # Authors
 
-# [@mzallaghi4](https://www.github.com/mzallaghi4)
+[@mzallaghi4](https://www.github.com/mzallaghi4)
 
-# Mehdi Zallaghi (Email:mmzallaghi@gmail.com)
+Mehdi Zallaghi (Email:mmzallaghi@gmail.com)
 
 
 #  About Me
