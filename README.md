@@ -1,4 +1,4 @@
-# Numerical Solution of Partial Differential Equations (PDEs)
+# Numerical Methods for Partial Differential Equations (PDEs)
 
 In this repository I will discuss the various numerical solution methods of partial differential equations (PDEs).
 
