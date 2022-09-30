@@ -11,8 +11,12 @@ I will cover the following numerical techniques:
 - Finite Element Methods
 - Finite Volume Methods
 - Meshless/Meshfree Methods
-And in particular;
-- Discontinuous galerkin Methods
+- Spectral method
+- Lattice Boltzmann methods
+- Boundary element method
+- Immersed boundary method
+- Isogeometric analysis
+
 
 # Solvers and Algorithms
 - Newton Solver and so on!
