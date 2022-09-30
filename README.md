@@ -28,7 +28,7 @@ I will cover the following numerical techniques:
 #  Linearization Methods
 
 # Model problem
-- Convection equation
+- Transport Equation
 - Convection–Diffusion equation
 - Navier-Stokes Equation
 
