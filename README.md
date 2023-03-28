@@ -1,10 +1,15 @@
-# Numerical Methods for Partial Differential Equations (PDEs)
-
-In this repository I will discuss the various numerical solution methods of partial differential equations (PDEs).
-
+# Numerical Maths
+In this repository I will discuss the Numerical Maths
 
 
-# Lessons 
+## Outline
+Numerical Analysis
+
+Numerical Linear Algebra
+
+
+
+## Lessons 
 
 I will cover the following numerical techniques:
 - Finite Differenece Methods
