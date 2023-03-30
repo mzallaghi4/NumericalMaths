@@ -66,6 +66,9 @@ I will cover the following numerical techniques:
 
 ## Computational fluid dynamics (CFD)
 
+Numerical analysis of Fluid Dynamics
+
+- computational numerical analysis of flow 
 
 # Documentation
 
