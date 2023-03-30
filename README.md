@@ -3,9 +3,16 @@ In this repository I will discuss the Numerical Maths
 
 
 ## Outline
-Numerical Analysis
 
-Numerical Linear Algebra
+In this page, we will cover the following topics:
+
+- Numerical Analysis
+- Numerical Linear Algebra
+- Numerical Methods for ODEs
+- Numerical Methods for PDEs
+- Computational fluid dynamics (CFD)
+
+
 
 
 
