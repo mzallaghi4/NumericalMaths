@@ -16,7 +16,25 @@ In this page, we will cover the following topics:
 
 
 
-## Lessons 
+## Numerical Analysis
+
+study of algorithms to numerical approximation of the problems
+
+
+## Numerical Linear Algebra
+
+Overview of Linear Algebra
+
+Basics of matrix algebra
+
+Vector and matrix norm
+
+## Numerical Methods for ODEs
+
+numerical techniques for ODE
+
+
+## Numerical Methods for PDEs
 
 I will cover the following numerical techniques:
 - Finite Differenece Methods
@@ -30,19 +48,24 @@ I will cover the following numerical techniques:
 - Isogeometric analysis
 
 
-# Solvers and Algorithms
+####  Solvers and Algorithms
 - Newton Solver and so on!
 - Iterative Methods for Linear and Nonlinear Equations
 - Preconditioner (transformation)
 - Algebraic Multigrid (AMG) and Geometric Multigrid (GMG) methods 
 - Domain Decompositon Methods (Overlapping and Non-overlapping)
 
-#  Linearization Methods
+####  Linearization Methods
 
-# Model problem
+#### Model problem
 - Transport Equation
 - Convection–Diffusion equation
 - Navier-Stokes Equation
+
+
+
+## Computational fluid dynamics (CFD)
+
 
 # Documentation
 
