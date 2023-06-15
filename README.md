@@ -10,8 +10,6 @@ In this page, we will cover the following topics:
 - Numerical Linear Algebra
 - Numerical Methods for ODEs
 - Numerical Methods for PDEs
-- Computational fluid dynamics (CFD)
-
 
 
 
@@ -64,11 +62,6 @@ I will cover the following numerical techniques:
 
 
 
-## Computational fluid dynamics (CFD)
-
-Numerical analysis of Fluid Dynamics
-
-- computational numerical analysis of flow 
 
 # Documentation
 
